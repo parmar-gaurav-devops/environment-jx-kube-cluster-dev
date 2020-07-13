@@ -1,0 +1,4 @@
+chartmuseum:
+  enabled: false
+nexus:
+  enabled: false
